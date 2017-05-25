@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'GPlace works!';
+  key = 'AIzaSyBcW19oPx0oSbVYrBpp1hLy7lgZK1nQ61E';
+  name = '';
 }
